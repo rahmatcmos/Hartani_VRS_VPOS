@@ -1,0 +1,11 @@
+- 1 TRANSAKSI Kassa02 00091
+- Transaksi Lompat2
+- Print Ulang Struk
+- 
+
+
+A-C
+- Disc 1-2 %, Disc Rp Muncul di Struk
+D
+- Seperti Sekarang
+DiskonNota : DiHilangkan

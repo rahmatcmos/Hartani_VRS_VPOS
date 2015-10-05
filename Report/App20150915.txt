@@ -1,0 +1,393 @@
+20:23:30 Aplikasi  Start...
+20:23:30 Update Struktur database...
+20:23:31 Update Struktur Pembulatan...OK.
+20:23:31 Update Struktur database...Sukses!
+20:23:31 Form Login...Inisialisasi!
+20:23:31 Form Login...Inisialisasi Form Pesan
+20:23:32 Form Login...Form Pesan loaded
+20:23:32 Form Login...Inisialisasi Background
+20:23:32 Form Login...Background loaded
+20:23:32 Form Login...Inisialisasi Footer Struk
+20:23:32 Form Login...Footer Struk sukses diset.
+20:23:32 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+20:23:32 Form Login...Setting Kasir Ok.
+20:23:32 Form Login...Baca Setting Tombol.
+20:23:32 Form Login...Setting Tombol OK.
+20:23:32 Form Login...Setting Com Display...
+20:23:32 Form Login...Setting Com Display OK.
+20:23:32 Form Login...Buka Port Display dan Printer ...
+20:23:32 Form Login...Buka Port Drawer  ...
+20:23:32 Form Login...Port Display OK.
+20:23:32 Form Login...Port Printer OK.
+20:23:32 Form Login...Port Drawer OK.
+20:23:32 Form Login...Sukses di load.
+20:23:32 Form Login...Show
+20:24:26 Aplikasi  Start...
+20:24:26 Update Struktur database...
+20:24:26 Update Struktur Pembulatan...OK.
+20:24:26 Update Struktur database...Sukses!
+20:24:26 Form Login...Inisialisasi!
+20:24:26 Form Login...Inisialisasi Form Pesan
+20:24:26 Form Login...Form Pesan loaded
+20:24:26 Form Login...Inisialisasi Background
+20:24:26 Form Login...Background loaded
+20:24:26 Form Login...Inisialisasi Footer Struk
+20:24:26 Form Login...Footer Struk sukses diset.
+20:24:26 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+20:24:26 Form Login...Setting Kasir Ok.
+20:24:26 Form Login...Baca Setting Tombol.
+20:24:26 Form Login...Setting Tombol OK.
+20:24:26 Form Login...Setting Com Display...
+20:24:27 Form Login...Setting Com Display OK.
+20:24:27 Form Login...Buka Port Display dan Printer ...
+20:24:27 Form Login...Buka Port Drawer  ...
+20:24:27 Form Login...Port Display OK.
+20:24:27 Form Login...Port Printer OK.
+20:24:27 Form Login...Port Drawer OK.
+20:24:27 Form Login...Sukses di load.
+20:24:27 Form Login...Show
+20:24:57 SQL Server -2147467259 : [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied. : CN1 Provider=SQLOLEDB.1;Password=Ell1t3s3rv;Persist Security Info=False;User ID=sa;Initial Catalog=HARTANI;Data Source=192.168.56.101 : CN2 Provider=SQLOLEDB.1;Password=Ell1t3s3rv;Persist Security Info=False;User ID=sa;Initial Catalog=HARTANI;Data Source=192.168.56.101
+20:26:11 Aplikasi  Start...
+20:26:11 Update Struktur database...
+20:26:11 Update Struktur Pembulatan...OK.
+20:26:11 Update Struktur database...Sukses!
+20:26:11 Form Login...Inisialisasi!
+20:26:12 Form Login...Inisialisasi Form Pesan
+20:26:12 Form Login...Form Pesan loaded
+20:26:12 Form Login...Inisialisasi Background
+20:26:12 Form Login...Background loaded
+20:26:12 Form Login...Inisialisasi Footer Struk
+20:26:12 Form Login...Footer Struk sukses diset.
+20:26:12 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+20:26:12 Form Login...Setting Kasir Ok.
+20:26:12 Form Login...Baca Setting Tombol.
+20:26:12 Form Login...Setting Tombol OK.
+20:26:12 Form Login...Setting Com Display...
+20:26:12 Form Login...Setting Com Display OK.
+20:26:12 Form Login...Buka Port Display dan Printer ...
+20:26:12 Form Login...Buka Port Drawer  ...
+20:26:12 Form Login...Port Display OK.
+20:26:12 Form Login...Port Printer OK.
+20:26:12 Form Login...Port Drawer OK.
+20:26:12 Form Login...Sukses di load.
+20:26:12 Form Login...Show
+20:26:40 SQL Server -2147467259 : [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied. : CN1 Provider=SQLOLEDB.1;Password=Ell1t3s3rv;Persist Security Info=False;User ID=sa;Initial Catalog=HARTANI;Data Source=192.168.56.101 : CN2 Provider=SQLOLEDB.1;Password=Ell1t3s3rv;Persist Security Info=False;User ID=sa;Initial Catalog=HARTANI;Data Source=192.168.56.101
+20:29:25 Aplikasi  Start...
+20:29:25 Update Struktur database...
+20:29:25 Update Struktur Pembulatan...OK.
+20:29:25 Update Struktur database...Sukses!
+20:29:25 Form Login...Inisialisasi!
+20:29:26 Form Login...Inisialisasi Form Pesan
+20:29:26 Form Login...Form Pesan loaded
+20:29:26 Form Login...Inisialisasi Background
+20:29:26 Form Login...Background loaded
+20:29:26 Form Login...Inisialisasi Footer Struk
+20:29:26 Form Login...Footer Struk sukses diset.
+20:29:26 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+20:29:26 Form Login...Setting Kasir Ok.
+20:29:26 Form Login...Baca Setting Tombol.
+20:29:26 Form Login...Setting Tombol OK.
+20:29:26 Form Login...Setting Com Display...
+20:29:26 Form Login...Setting Com Display OK.
+20:29:26 Form Login...Buka Port Display dan Printer ...
+20:29:26 Form Login...Buka Port Drawer  ...
+20:29:26 Form Login...Port Display OK.
+20:29:26 Form Login...Port Printer OK.
+20:29:26 Form Login...Port Drawer OK.
+20:29:26 Form Login...Sukses di load.
+20:29:26 Form Login...Show
+21:08:42 Aplikasi  Start...
+21:08:42 Update Struktur database...
+21:08:43 Update Struktur Pembulatan...OK.
+21:08:43 Update Struktur database...Sukses!
+21:08:43 Form Login...Inisialisasi!
+21:08:43 Form Login...Inisialisasi Form Pesan
+21:08:43 Form Login...Form Pesan loaded
+21:08:43 Form Login...Inisialisasi Background
+21:08:43 Form Login...Background loaded
+21:08:43 Form Login...Inisialisasi Footer Struk
+21:08:43 Form Login...Footer Struk sukses diset.
+21:08:43 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+21:08:43 Form Login...Setting Kasir Ok.
+21:08:43 Form Login...Baca Setting Tombol.
+21:08:43 Form Login...Setting Tombol OK.
+21:08:43 Form Login...Setting Com Display...
+21:08:43 Form Login...Setting Com Display OK.
+21:08:44 Form Login...Buka Port Display dan Printer ...
+21:08:44 Form Login...Buka Port Drawer  ...
+21:08:44 Form Login...Port Display OK.
+21:08:44 Form Login...Port Printer OK.
+21:08:44 Form Login...Port Drawer OK.
+21:08:44 Form Login...Sukses di load.
+21:08:44 Form Login...Show
+21:23:41 Aplikasi  Start...
+21:23:41 Update Struktur database...
+21:23:42 Update Struktur Pembulatan...OK.
+21:23:43 Update Struktur database...Sukses!
+21:23:43 Form Login...Inisialisasi!
+21:23:44 Form Login...Inisialisasi Form Pesan
+21:23:44 Form Login...Form Pesan loaded
+21:23:44 Form Login...Inisialisasi Background
+21:23:44 Form Login...Background loaded
+21:23:44 Form Login...Inisialisasi Footer Struk
+21:23:44 Form Login...Footer Struk sukses diset.
+21:23:44 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+21:23:44 Form Login...Setting Kasir Ok.
+21:23:44 Form Login...Baca Setting Tombol.
+21:23:44 Form Login...Setting Tombol OK.
+21:23:44 Form Login...Setting Com Display...
+21:23:45 Form Login...Setting Com Display OK.
+21:23:45 Form Login...Buka Port Display dan Printer ...
+21:23:45 Form Login...Buka Port Drawer  ...
+21:23:45 Form Login...Port Display OK.
+21:23:45 Form Login...Port Printer OK.
+21:23:45 Form Login...Port Drawer OK.
+21:23:45 Form Login...Sukses di load.
+21:23:45 Form Login...Show
+21:24:26 SQL Server -2147467259 : [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied. : CN1 Provider=SQLOLEDB.1;Password=Sg1;Persist Security Info=False;User ID=sa;Initial Catalog=HARTANI;Data Source=192.168.1.200\SQLEXPRESS : CN2 Provider=SQLOLEDB.1;Password=Sg1;Persist Security Info=False;User ID=sa;Initial Catalog=HARTANI;Data Source=192.168.1.200\SQLEXPRESS
+21:27:34 Aplikasi  Start...
+21:27:34 Update Struktur database...
+21:27:34 Update Struktur Pembulatan...OK.
+21:27:35 Update Struktur database...Sukses!
+21:27:35 Form Login...Inisialisasi!
+21:27:35 Form Login...Inisialisasi Form Pesan
+21:27:35 Form Login...Form Pesan loaded
+21:27:35 Form Login...Inisialisasi Background
+21:27:35 Form Login...Background loaded
+21:27:35 Form Login...Inisialisasi Footer Struk
+21:27:35 Form Login...Footer Struk sukses diset.
+21:27:35 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+21:27:35 Form Login...Setting Kasir Ok.
+21:27:35 Form Login...Baca Setting Tombol.
+21:27:35 Form Login...Setting Tombol OK.
+21:27:35 Form Login...Setting Com Display...
+21:27:35 Form Login...Setting Com Display OK.
+21:27:35 Form Login...Buka Port Display dan Printer ...
+21:27:35 Form Login...Buka Port Drawer  ...
+21:27:35 Form Login...Port Display OK.
+21:27:35 Form Login...Port Printer OK.
+21:27:35 Form Login...Port Drawer OK.
+21:27:35 Form Login...Sukses di load.
+21:27:35 Form Login...Show
+21:28:59 Aplikasi  Start...
+21:28:59 Update Struktur database...
+21:28:59 Update Struktur Pembulatan...OK.
+21:28:59 Update Struktur database...Sukses!
+21:28:59 Form Login...Inisialisasi!
+21:28:59 Form Login...Inisialisasi Form Pesan
+21:29:00 Form Login...Form Pesan loaded
+21:29:00 Form Login...Inisialisasi Background
+21:29:00 Form Login...Background loaded
+21:29:00 Form Login...Inisialisasi Footer Struk
+21:29:00 Form Login...Footer Struk sukses diset.
+21:29:00 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+21:29:00 Form Login...Setting Kasir Ok.
+21:29:00 Form Login...Baca Setting Tombol.
+21:29:00 Form Login...Setting Tombol OK.
+21:29:00 Form Login...Setting Com Display...
+21:29:00 Form Login...Setting Com Display OK.
+21:29:00 Form Login...Buka Port Display dan Printer ...
+21:29:00 Form Login...Buka Port Drawer  ...
+21:29:00 Form Login...Port Display OK.
+21:29:00 Form Login...Port Printer OK.
+21:29:00 Form Login...Port Drawer OK.
+21:29:00 Form Login...Sukses di load.
+21:29:00 Form Login...Show
+21:29:44 Aplikasi  Start...
+21:29:44 Update Struktur database...
+21:29:44 Update Struktur Pembulatan...OK.
+21:29:44 Update Struktur database...Sukses!
+21:29:44 Form Login...Inisialisasi!
+21:29:45 Form Login...Inisialisasi Form Pesan
+21:29:45 Form Login...Form Pesan loaded
+21:29:45 Form Login...Inisialisasi Background
+21:29:45 Form Login...Background loaded
+21:29:45 Form Login...Inisialisasi Footer Struk
+21:29:45 Form Login...Footer Struk sukses diset.
+21:29:45 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+21:29:45 Form Login...Setting Kasir Ok.
+21:29:45 Form Login...Baca Setting Tombol.
+21:29:45 Form Login...Setting Tombol OK.
+21:29:45 Form Login...Setting Com Display...
+21:29:45 Form Login...Setting Com Display OK.
+21:29:45 Form Login...Buka Port Display dan Printer ...
+21:29:45 Form Login...Buka Port Drawer  ...
+21:29:45 Form Login...Port Display OK.
+21:29:45 Form Login...Port Printer OK.
+21:29:45 Form Login...Port Drawer OK.
+21:29:45 Form Login...Sukses di load.
+21:29:45 Form Login...Show
+21:43:15 Aplikasi  Start...
+21:43:15 Update Struktur database...
+21:43:15 Update Struktur Pembulatan...OK.
+21:43:15 Update Struktur database...Sukses!
+21:43:15 Form Login...Inisialisasi!
+21:43:15 Form Login...Inisialisasi Form Pesan
+21:43:16 Form Login...Form Pesan loaded
+21:43:16 Form Login...Inisialisasi Background
+21:43:16 Form Login...Background loaded
+21:43:16 Form Login...Inisialisasi Footer Struk
+21:43:16 Form Login...Footer Struk sukses diset.
+21:43:16 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+21:43:16 Form Login...Setting Kasir Ok.
+21:43:16 Form Login...Baca Setting Tombol.
+21:43:16 Form Login...Setting Tombol OK.
+21:43:16 Form Login...Setting Com Display...
+21:43:16 Form Login...Setting Com Display OK.
+21:43:16 Form Login...Buka Port Display dan Printer ...
+21:43:16 Form Login...Buka Port Drawer  ...
+21:43:16 Form Login...Port Display OK.
+21:43:16 Form Login...Port Printer OK.
+21:43:16 Form Login...Port Drawer OK.
+21:43:16 Form Login...Sukses di load.
+21:43:16 Form Login...Show
+21:49:30 Aplikasi  Start...
+21:49:30 Update Struktur database...
+21:49:30 Update Struktur Pembulatan...OK.
+21:49:30 Update Struktur database...Sukses!
+21:49:30 Form Login...Inisialisasi!
+21:49:30 Form Login...Inisialisasi Form Pesan
+21:49:30 Form Login...Form Pesan loaded
+21:49:30 Form Login...Inisialisasi Background
+21:49:30 Form Login...Background loaded
+21:49:30 Form Login...Inisialisasi Footer Struk
+21:49:30 Form Login...Footer Struk sukses diset.
+21:49:30 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+21:49:31 Form Login...Setting Kasir Ok.
+21:49:31 Form Login...Baca Setting Tombol.
+21:49:31 Form Login...Setting Tombol OK.
+21:49:31 Form Login...Setting Com Display...
+21:49:31 Form Login...Setting Com Display OK.
+21:49:31 Form Login...Buka Port Display dan Printer ...
+21:49:31 Form Login...Buka Port Drawer  ...
+21:49:31 Form Login...Port Display OK.
+21:49:31 Form Login...Port Printer OK.
+21:49:31 Form Login...Port Drawer OK.
+21:49:31 Form Login...Sukses di load.
+21:49:31 Form Login...Show
+21:50:05 Aplikasi  Start...
+21:50:05 Update Struktur database...
+21:50:05 Update Struktur Pembulatan...OK.
+21:50:05 Update Struktur database...Sukses!
+21:50:05 Form Login...Inisialisasi!
+21:50:05 Form Login...Inisialisasi Form Pesan
+21:50:05 Form Login...Form Pesan loaded
+21:50:05 Form Login...Inisialisasi Background
+21:50:05 Form Login...Background loaded
+21:50:05 Form Login...Inisialisasi Footer Struk
+21:50:05 Form Login...Footer Struk sukses diset.
+21:50:05 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+21:50:05 Form Login...Setting Kasir Ok.
+21:50:05 Form Login...Baca Setting Tombol.
+21:50:05 Form Login...Setting Tombol OK.
+21:50:05 Form Login...Setting Com Display...
+21:50:05 Form Login...Setting Com Display OK.
+21:50:05 Form Login...Buka Port Display dan Printer ...
+21:50:05 Form Login...Buka Port Drawer  ...
+21:50:05 Form Login...Port Display OK.
+21:50:05 Form Login...Port Printer OK.
+21:50:05 Form Login...Port Drawer OK.
+21:50:05 Form Login...Sukses di load.
+21:50:05 Form Login...Show
+21:50:42 Aplikasi  Start...
+21:50:42 Update Struktur database...
+21:50:42 Update Struktur Pembulatan...OK.
+21:50:43 Update Struktur database...Sukses!
+21:50:43 Form Login...Inisialisasi!
+21:50:43 Form Login...Inisialisasi Form Pesan
+21:50:43 Form Login...Form Pesan loaded
+21:50:43 Form Login...Inisialisasi Background
+21:50:43 Form Login...Background loaded
+21:50:43 Form Login...Inisialisasi Footer Struk
+21:50:43 Form Login...Footer Struk sukses diset.
+21:50:43 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+21:50:43 Form Login...Setting Kasir Ok.
+21:50:43 Form Login...Baca Setting Tombol.
+21:50:43 Form Login...Setting Tombol OK.
+21:50:43 Form Login...Setting Com Display...
+21:50:43 Form Login...Setting Com Display OK.
+21:50:43 Form Login...Buka Port Display dan Printer ...
+21:50:43 Form Login...Buka Port Drawer  ...
+21:50:43 Form Login...Port Display OK.
+21:50:43 Form Login...Port Printer OK.
+21:50:43 Form Login...Port Drawer OK.
+21:50:43 Form Login...Sukses di load.
+21:50:43 Form Login...Show
+21:51:35 Aplikasi  Start...
+21:51:35 Update Struktur database...
+21:51:35 Update Struktur Pembulatan...OK.
+21:51:35 Update Struktur database...Sukses!
+21:51:35 Form Login...Inisialisasi!
+21:51:35 Form Login...Inisialisasi Form Pesan
+21:51:36 Form Login...Form Pesan loaded
+21:51:36 Form Login...Inisialisasi Background
+21:51:36 Form Login...Background loaded
+21:51:36 Form Login...Inisialisasi Footer Struk
+21:51:36 Form Login...Footer Struk sukses diset.
+21:51:36 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+21:51:36 Form Login...Setting Kasir Ok.
+21:51:36 Form Login...Baca Setting Tombol.
+21:51:36 Form Login...Setting Tombol OK.
+21:51:36 Form Login...Setting Com Display...
+21:51:36 Form Login...Setting Com Display OK.
+21:51:36 Form Login...Buka Port Display dan Printer ...
+21:51:36 Form Login...Buka Port Drawer  ...
+21:51:36 Form Login...Port Display OK.
+21:51:36 Form Login...Port Printer OK.
+21:51:36 Form Login...Port Drawer OK.
+21:51:36 Form Login...Sukses di load.
+21:51:36 Form Login...Show
+21:55:04 Aplikasi  Start...
+21:55:04 Update Struktur database...
+21:55:04 Update Struktur Pembulatan...OK.
+21:58:20 Aplikasi  Start...
+21:58:20 Update Struktur database...
+21:58:20 Update Struktur Pembulatan...OK.
+21:58:21 Update Struktur database...Sukses!
+21:58:21 Form Login...Inisialisasi!
+21:58:21 Form Login...Inisialisasi Form Pesan
+21:58:21 Form Login...Form Pesan loaded
+21:58:21 Form Login...Inisialisasi Background
+21:58:21 Form Login...Background loaded
+21:58:21 Form Login...Inisialisasi Footer Struk
+21:58:21 Form Login...Footer Struk sukses diset.
+21:58:21 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+21:58:21 Form Login...Setting Kasir Ok.
+21:58:21 Form Login...Baca Setting Tombol.
+21:58:21 Form Login...Setting Tombol OK.
+21:58:21 Form Login...Setting Com Display...
+21:58:21 Form Login...Setting Com Display OK.
+21:58:21 Form Login...Buka Port Display dan Printer ...
+21:58:21 Form Login...Buka Port Drawer  ...
+21:58:21 Form Login...Port Display OK.
+21:58:21 Form Login...Port Printer OK.
+21:58:21 Form Login...Port Drawer OK.
+21:58:21 Form Login...Sukses di load.
+21:58:21 Form Login...Show
+21:58:45 Aplikasi  Start...
+21:58:45 Update Struktur database...
+21:58:45 Update Struktur Pembulatan...OK.
+21:59:39 Aplikasi  Start...
+21:59:39 Update Struktur database...
+21:59:39 Update Struktur Pembulatan...OK.
+21:59:40 Update Struktur database...Sukses!
+21:59:40 Form Login...Inisialisasi!
+21:59:40 Form Login...Inisialisasi Form Pesan
+21:59:40 Form Login...Form Pesan loaded
+21:59:40 Form Login...Inisialisasi Background
+21:59:40 Form Login...Background loaded
+21:59:40 Form Login...Inisialisasi Footer Struk
+21:59:40 Form Login...Footer Struk sukses diset.
+21:59:40 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+21:59:40 Form Login...Setting Kasir Ok.
+21:59:40 Form Login...Baca Setting Tombol.
+21:59:40 Form Login...Setting Tombol OK.
+21:59:40 Form Login...Setting Com Display...
+21:59:40 Form Login...Setting Com Display OK.
+21:59:40 Form Login...Buka Port Display dan Printer ...
+21:59:40 Form Login...Buka Port Drawer  ...
+21:59:40 Form Login...Port Display OK.
+21:59:40 Form Login...Port Printer OK.
+21:59:40 Form Login...Port Drawer OK.
+21:59:40 Form Login...Sukses di load.
+21:59:40 Form Login...Show

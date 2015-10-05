@@ -1,0 +1,48 @@
+06:46:14 Aplikasi  Start...
+06:46:14 Update Struktur database...
+06:46:14 Update Struktur Pembulatan...OK.
+06:46:15 Update Struktur database...Sukses!
+06:46:15 Form Login...Inisialisasi!
+06:46:15 Form Login...Inisialisasi Form Pesan
+06:46:15 Form Login...Form Pesan loaded
+06:46:15 Form Login...Inisialisasi Background
+06:46:15 Form Login...Background loaded
+06:46:15 Form Login...Inisialisasi Footer Struk
+06:46:15 Form Login...Footer Struk sukses diset.
+06:46:15 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+06:46:16 Form Login...Setting Kasir Ok.
+06:46:16 Form Login...Baca Setting Tombol.
+06:46:16 Form Login...Setting Tombol OK.
+06:46:16 Form Login...Setting Com Display...
+06:46:16 Form Login...Setting Com Display OK.
+06:46:16 Form Login...Buka Port Display dan Printer ...
+06:46:16 Form Login...Buka Port Drawer  ...
+06:46:16 Form Login...Port Display OK.
+06:46:16 Form Login...Port Printer OK.
+06:46:16 Form Login...Port Drawer OK.
+06:46:16 Form Login...Sukses di load.
+06:46:16 Form Login...Show
+04:26:35 Aplikasi  Start...
+04:26:35 Update Struktur database...
+04:26:35 Update Struktur Pembulatan...OK.
+04:26:35 Update Struktur database...Sukses!
+04:26:35 Form Login...Inisialisasi!
+04:26:35 Form Login...Inisialisasi Form Pesan
+04:26:35 Form Login...Form Pesan loaded
+04:26:35 Form Login...Inisialisasi Background
+04:26:36 Form Login...Background loaded
+04:26:36 Form Login...Inisialisasi Footer Struk
+04:26:36 Form Login...Footer Struk sukses diset.
+04:26:36 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+04:26:36 Form Login...Setting Kasir Ok.
+04:26:36 Form Login...Baca Setting Tombol.
+04:26:36 Form Login...Setting Tombol OK.
+04:26:36 Form Login...Setting Com Display...
+04:26:36 Form Login...Setting Com Display OK.
+04:26:36 Form Login...Buka Port Display dan Printer ...
+04:26:36 Form Login...Buka Port Drawer  ...
+04:26:36 Form Login...Port Display OK.
+04:26:36 Form Login...Port Printer OK.
+04:26:36 Form Login...Port Drawer OK.
+04:26:36 Form Login...Sukses di load.
+04:26:36 Form Login...Show

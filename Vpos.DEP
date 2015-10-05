@@ -1,0 +1,44 @@
+[Version]
+Version=1.0.0.0
+
+[Vpos.exe <0009>]
+Dest=$(AppPath)
+Date=1/11/2010
+Time=07:12
+Version=1.0.0.0
+CABFilename=Vpos.CAB
+CABINFFile=Vpos.INF
+Uses1=msvbvm60.dll
+Uses2=oleaut32.dll
+Uses3=olepro32.dll
+Uses4=asycfilt.dll
+Uses5=stdole2.tlb
+Uses6=COMCAT.DLL
+Uses7=DAO2535.TLB
+Uses8=dXCtrls.dll
+Uses9=msado20.tlb
+Uses10=DBGRID32.OCX
+Uses11=MSCOMM32.OCX
+Uses12=msmask32.ocx
+Uses13=tdbg6.ocx
+Uses14=XShow40.ocx
+Uses15=comdlg32.ocx
+Uses16=msadodc.ocx
+
+[dXCtrls.dll <0009>]
+Dest=$(WinSysPath)
+Date=6/28/2000
+Time=01:00
+Version=1.0.0.1
+
+[msado20.tlb <0009>]
+Dest=$(WinSysPath)
+Date=8/4/2004
+Time=19:00
+Version=2.81.1117.0
+
+[XShow40.ocx <0009>]
+Dest=$(WinSysPath)
+Date=3/13/2004
+Time=20:26
+Version=4.0.0.0

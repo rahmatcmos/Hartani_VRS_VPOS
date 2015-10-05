@@ -1,0 +1,647 @@
+ 
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+. BEAR BRAND 189 ML KRT
+150047         1 X  235.700=    235.700
+.PIGEON BABY WASH REFF 600ml*
+010035         1 X   41.000=     41.000
+.GILLET BLUE II PLUS 24'S #
+010045         1 X    7.200=      7.200
+.ORAL-B MW ALCOHOL FREE FRESHMNT500ml
+062137         1 X   39.300=     39.300
+---------------------------------------
+Subtotal                        558.900
+Voucher                               0
+Dibayar                               0
+Kembali                        -558.900
+#000001,Kasir01:ADM    19/09/1504:21:35
+Macam Barang =0 , Total Item =0
+----TERIMA KASIH ATAS KUNJUNGAN ANDA----
+ 
+ 
+ 
+
+
+----------TRANSAKSI DI PENDING--------
+
+
+
+
+
+
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+.ORAL-B MW ALCOHOL FREE FRESHMNT500ml
+062137         1 X   39.300=     39.300
+.KONICARE MYK TLN PLUS 125ml#
+010005         1 X   48.700=     48.700
+---------------------------------------
+Subtotal                         88.000
+Voucher                               0
+Dibayar                               0
+Kembali                         -88.000
+#000002,Kasir01:ADM    19/09/1504:24:01
+Macam Barang =0 , Total Item =0
+CUSTOMER: 90002519
+----TERIMA KASIH ATAS KUNJUNGAN ANDA----
+ 
+ 
+ 
+
+
+----------TRANSAKSI DI PENDING--------
+
+
+
+
+
+
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+.ORAL-B MW ALCOHOL FREE FRESHMNT500ml
+062137         1 X   39.300=     39.300
+---------------------------------------
+Subtotal                         39.300
+Voucher                               0
+Dibayar                               0
+Kembali                         -39.300
+#000003,Kasir01:ADM    19/09/1504:26:08
+Macam Barang =0 , Total Item =0
+----TERIMA KASIH ATAS KUNJUNGAN ANDA----
+ 
+ 
+ 
+
+
+----------TRANSAKSI DI PENDING--------
+
+
+
+
+
+
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+ 
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+. NAGA MERAH LOKAL
+255141         1 X   43.500=     43.500
+.GILETTE SENSR EXEL CART 5S #
+010011         1 X  115.500=    115.500
+---------------------------------------
+Subtotal                        289.500
+Discount Nota                     8.685
+Voucher                               0
+Dibayar                         300.000
+Kembali                          19.185
+#000004,Kasir01:ADM    19/09/1514:58:23
+Macam Barang =2 , Total Item =5
+CUSTOMER: 90002519-AMI SULASMI
+----TERIMA KASIH ATAS KUNJUNGAN ANDA----
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+---------------------------------------
+Subtotal                        289.500
+Discount Nota                     8.685
+Voucher                               0
+Dibayar                         300.000
+Kembali                          19.185
+#000004,Kasir01:ADM    19/09/1515:02:36
+Macam Barang =2 , Total Item =5
+CUSTOMER: 90002519-AMI SULASMI
+----TERIMA KASIH ATAS KUNJUNGAN ANDA----
+ 
+ 
+ 
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+. BEAR BRAND 189 ML KRT
+150047         1 X  235.700=    235.700
+. BLASTR NEOPLTN125G#
+220089         1 X    5.400=      5.400
+---------------------------------------
+Subtotal                     23.575.400
+Discount Nota                   707.262
+Voucher                               0
+Dibayar                      22.868.138
+Kembali                               0
+#000005,Kasir01:ADM    19/09/1515:07:38
+Macam Barang =2 , Total Item =101
+CUSTOMER: 90002519-AMI SULASMI
+----TERIMA KASIH ATAS KUNJUNGAN ANDA----
+ 
+ 
+ 
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+---------------------------------------
+*** Load From Last Transaction.... ***
+---------------------------------------
+.ORAL-B MW ALCOHOL FREE FRESHMNT500ml*)
+062137         1 X   39.300=     39.300
+   -ALL VOID - ALL VOID - ALL VOID-    
+---------- STRUK HARAP DISOBEK---------
+
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+---------------------------------------
+*** Load From Last Transaction.... ***
+---------------------------------------
+.ORAL-B MW ALCOHOL FREE FRESHMNT500ml*)
+062137         1 X   39.300=     39.300
+.KONICARE MYK TLN PLUS 125ml#*)
+010005         1 X   48.700=     48.700
+   -ALL VOID - ALL VOID - ALL VOID-    
+---------- STRUK HARAP DISOBEK---------
+
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+---------------------------------------
+*** Load From Last Transaction.... ***
+---------------------------------------
+. BEAR BRAND 189 ML KRT*)
+150047         2 X  235.700=    471.400
+.PIGEON BABY WASH REFF 600ml**)
+010035         1 X   41.000=     41.000
+.GILLET BLUE II PLUS 24'S #*)
+010045         1 X    7.200=      7.200
+.ORAL-B MW ALCOHOL FREE FRESHMNT500ml*)
+062137         1 X   39.300=     39.300
+   -ALL VOID - ALL VOID - ALL VOID-    
+---------- STRUK HARAP DISOBEK---------
+
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+---------------------------------------
+*** Load From Last Transaction.... ***
+---------------------------------------
+.GILETTE SENSR EXEL CART 5S #*)
+010011         1 X  115.500=    115.500
+.MYK KAPAK 28ml#*)
+010010         1 X   29.100=     29.100
+   -ALL VOID - ALL VOID - ALL VOID-    
+---------- STRUK HARAP DISOBEK---------
+
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+---------------------------------------
+*** Load From Last Transaction.... ***
+---------------------------------------
+.TIMTAM CHOCO CHOCOLATE 120G#*)
+190866         1 X    9.200=      9.200
+ORAL-B MW ALCOHOL FREE SPEARMNT500ml*)
+062199         1 X   39.300=     39.300
+*** Disc. 15,27%                     -6.000
+   -ALL VOID - ALL VOID - ALL VOID-    
+---------- STRUK HARAP DISOBEK---------
+
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+---------------------------------------
+*** Load From Last Transaction.... ***
+---------------------------------------
+.TIMTAM CHOCO CHOCOLATE 120G#*)
+190866         1 X    9.200=      9.200
+ORAL-B MW ALCOHOL FREE SPEARMNT500ml*)
+062199         1 X   39.300=     39.300
+*** Disc. 15,27%                     -6.000
+   -ALL VOID - ALL VOID - ALL VOID-    
+---------- STRUK HARAP DISOBEK---------
+
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+---------------------------------------
+*** Load From Last Transaction.... ***
+---------------------------------------
+. NAGA MERAH LOKAL*)
+255141         2 X   43.500=     87.000
+ORAL-B MW ALCOHOL FREE SPEARMNT500ml*)
+062199         1 X   39.300=     39.300
+*** Disc. 15,27%                     -6.000
+. ABC KECAP PEDAS 135ML#*)
+240796         3 X    7.700=     23.100
+   -ALL VOID - ALL VOID - ALL VOID-    
+---------- STRUK HARAP DISOBEK---------
+
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+---------------------------------------
+*** Load From Last Transaction.... ***
+---------------------------------------
+.ORAL-B MW ALCOHOL FREE FRESHMNT500ml*)
+062137         1 X   39.300=     39.300
+*** Disc. 15,27%                     -6.000
+. NAGA MERAH LOKAL*)
+255141         2 X   43.500=     87.000
+   -ALL VOID - ALL VOID - ALL VOID-    
+---------- STRUK HARAP DISOBEK---------
+
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+---------------------------------------
+*** Load From Last Transaction.... ***
+---------------------------------------
+.SOKLIN BIOMATIC 2KG**)
+050160         0 X   51.300=          0
+   -ALL VOID - ALL VOID - ALL VOID-    
+---------- STRUK HARAP DISOBEK---------
+
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+.GILETTE SENSR EXEL CART 5S #
+010011         1 X  115.500=    115.500
+---------------------------------------
+Subtotal                        115.500
+Voucher                               0
+Dibayar                         300.000
+Kembali                         184.500
+#000152,Kasir01:ADM    19/09/1515:12:38
+Macam Barang =1 , Total Item =1
+CUSTOMER: 90002519-AMI SULASMI
+----TERIMA KASIH ATAS KUNJUNGAN ANDA----
+ 
+ 
+ 
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+---------------------------------------
+
+
+
+
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+----------------------------------------
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+---------------------------------------
+
+
+
+
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+----------------------------------------
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+---------------------------------------
+
+
+
+
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+----------------------------------------
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+---------------------------------------
+
+
+
+
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+----------------------------------------
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+ 
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+.KONICARE MYK TLN PLUS 125ml#
+010005         1 X   48.700=     48.700
+ 
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+---------------------------------------
+Subtotal                         48.700
+Voucher                               0
+Dibayar                          48.700
+Kembali                               0
+#000153,Kasir01:ADM    19/09/1517:04:01
+Macam Barang =1 , Total Item =1
+CUSTOMER: 90002519-AMI SULASMI
+----TERIMA KASIH ATAS KUNJUNGAN ANDA----
+ 
+ 
+ 
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+----REPRINT----
+---------------------------------------
+.KONICARE MYK TLN PLUS 125ml#*)
+010005         1 X   48.700=     48.700
+---------------------------------------
+Subtotal                         48.700
+Voucher                               0
+Dibayar                          23.700
+Kembali                               0
+#000153,Kasir01:ADM    19/09/1517:06:05
+Macam Barang =1 , Total Item =1
+customer: 90002519-AMI SULASMI
+----TERIMA KASIH ATAS KUNJUNGAN ANDA----
+ 
+ 
+ 
+
+
+ 
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------

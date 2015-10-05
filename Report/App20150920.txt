@@ -1,0 +1,169 @@
+12:42:30 Aplikasi  Start...
+12:42:30 Update Struktur database...
+12:42:30 Update Struktur Pembulatan...OK.
+12:42:37 Update Struktur database...Sukses!
+12:42:37 Form Login...Inisialisasi!
+12:42:37 Form Login...Inisialisasi Form Pesan
+12:42:37 Form Login...Form Pesan loaded
+12:42:37 Form Login...Inisialisasi Background
+12:42:37 Form Login...Background loaded
+12:42:37 Form Login...Inisialisasi Footer Struk
+12:42:37 Form Login...Footer Struk sukses diset.
+12:42:37 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+12:42:37 Form Login...Setting Kasir Ok.
+12:42:37 Form Login...Baca Setting Tombol.
+12:42:37 Form Login...Setting Tombol OK.
+12:42:37 Form Login...Setting Com Display...
+12:42:37 Form Login...Setting Com Display OK.
+12:42:37 Form Login...Buka Port Display dan Printer ...
+12:42:37 Form Login...Buka Port Drawer  ...
+12:42:37 Form Login...Port Display OK.
+12:42:37 Form Login...Port Printer OK.
+12:42:37 Form Login...Port Drawer OK.
+12:42:37 Form Login...Sukses di load.
+12:42:37 Form Login...Show
+13:06:50 Aplikasi  Start...
+13:06:50 Update Struktur database...
+13:06:50 Update Struktur Pembulatan...OK.
+13:06:56 Update Struktur database...Sukses!
+13:06:57 Form Login...Inisialisasi!
+13:06:57 Form Login...Inisialisasi Form Pesan
+13:06:57 Form Login...Form Pesan loaded
+13:06:57 Form Login...Inisialisasi Background
+13:06:57 Form Login...Background loaded
+13:06:57 Form Login...Inisialisasi Footer Struk
+13:06:57 Form Login...Footer Struk sukses diset.
+13:06:57 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+13:06:57 Form Login...Setting Kasir Ok.
+13:06:57 Form Login...Baca Setting Tombol.
+13:06:57 Form Login...Setting Tombol OK.
+13:06:57 Form Login...Setting Com Display...
+13:06:57 Form Login...Setting Com Display OK.
+13:06:57 Form Login...Buka Port Display dan Printer ...
+13:06:57 Form Login...Buka Port Drawer  ...
+13:06:57 Form Login...Port Display OK.
+13:06:57 Form Login...Port Printer OK.
+13:06:57 Form Login...Port Drawer OK.
+13:06:57 Form Login...Sukses di load.
+13:06:57 Form Login...Show
+13:09:47 Aplikasi  Start...
+13:09:47 Update Struktur database...
+13:09:47 Update Struktur Pembulatan...OK.
+13:09:53 Update Struktur database...Sukses!
+13:09:53 Form Login...Inisialisasi!
+13:09:53 Form Login...Inisialisasi Form Pesan
+13:09:53 Form Login...Form Pesan loaded
+13:09:53 Form Login...Inisialisasi Background
+13:09:53 Form Login...Background loaded
+13:09:53 Form Login...Inisialisasi Footer Struk
+13:09:54 Form Login...Footer Struk sukses diset.
+13:09:54 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+13:09:54 Form Login...Setting Kasir Ok.
+13:09:54 Form Login...Baca Setting Tombol.
+13:09:54 Form Login...Setting Tombol OK.
+13:09:54 Form Login...Setting Com Display...
+13:09:54 Form Login...Setting Com Display OK.
+13:09:54 Form Login...Buka Port Display dan Printer ...
+13:09:54 Form Login...Buka Port Drawer  ...
+13:09:54 Form Login...Port Display OK.
+13:09:54 Form Login...Port Printer OK.
+13:09:54 Form Login...Port Drawer OK.
+13:09:54 Form Login...Sukses di load.
+13:09:54 Form Login...Show
+13:37:05 Aplikasi  Start...
+13:37:05 Update Struktur database...
+13:37:05 Update Struktur Pembulatan...OK.
+13:37:11 Update Struktur database...Sukses!
+13:37:11 Form Login...Inisialisasi!
+13:37:11 Form Login...Inisialisasi Form Pesan
+13:37:11 Form Login...Form Pesan loaded
+13:37:11 Form Login...Inisialisasi Background
+13:37:11 Form Login...Background loaded
+13:37:11 Form Login...Inisialisasi Footer Struk
+13:37:11 Form Login...Footer Struk sukses diset.
+13:37:11 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+13:37:11 Form Login...Setting Kasir Ok.
+13:37:11 Form Login...Baca Setting Tombol.
+13:37:12 Form Login...Setting Tombol OK.
+13:37:12 Form Login...Setting Com Display...
+13:37:12 Form Login...Setting Com Display OK.
+13:37:12 Form Login...Buka Port Display dan Printer ...
+13:37:12 Form Login...Buka Port Drawer  ...
+13:37:12 Form Login...Port Display OK.
+13:37:12 Form Login...Port Printer OK.
+13:37:12 Form Login...Port Drawer OK.
+13:37:12 Form Login...Sukses di load.
+13:37:12 Form Login...Show
+14:02:14 Aplikasi  Start...
+14:02:14 Update Struktur database...
+14:02:14 Update Struktur Pembulatan...OK.
+14:02:20 Update Struktur database...Sukses!
+14:02:20 Form Login...Inisialisasi!
+14:02:20 Form Login...Inisialisasi Form Pesan
+14:02:20 Form Login...Form Pesan loaded
+14:02:20 Form Login...Inisialisasi Background
+14:02:20 Form Login...Background loaded
+14:02:20 Form Login...Inisialisasi Footer Struk
+14:02:20 Form Login...Footer Struk sukses diset.
+14:02:20 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+14:02:20 Form Login...Setting Kasir Ok.
+14:02:20 Form Login...Baca Setting Tombol.
+14:02:20 Form Login...Setting Tombol OK.
+14:02:20 Form Login...Setting Com Display...
+14:02:20 Form Login...Setting Com Display OK.
+14:02:20 Form Login...Buka Port Display dan Printer ...
+14:02:20 Form Login...Buka Port Drawer  ...
+14:02:20 Form Login...Port Display OK.
+14:02:20 Form Login...Port Printer OK.
+14:02:20 Form Login...Port Drawer OK.
+14:02:20 Form Login...Sukses di load.
+14:02:20 Form Login...Show
+14:38:59 Aplikasi  Start...
+14:38:59 Update Struktur database...
+14:38:59 Update Struktur Pembulatan...OK.
+14:39:05 Update Struktur database...Sukses!
+14:39:05 Form Login...Inisialisasi!
+14:39:06 Form Login...Inisialisasi Form Pesan
+14:39:06 Form Login...Form Pesan loaded
+14:39:06 Form Login...Inisialisasi Background
+14:39:06 Form Login...Background loaded
+14:39:06 Form Login...Inisialisasi Footer Struk
+14:39:06 Form Login...Footer Struk sukses diset.
+14:39:06 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+14:39:06 Form Login...Setting Kasir Ok.
+14:39:06 Form Login...Baca Setting Tombol.
+14:39:06 Form Login...Setting Tombol OK.
+14:39:06 Form Login...Setting Com Display...
+14:39:06 Form Login...Setting Com Display OK.
+14:39:06 Form Login...Buka Port Display dan Printer ...
+14:39:06 Form Login...Buka Port Drawer  ...
+14:39:06 Form Login...Port Display OK.
+14:39:06 Form Login...Port Printer OK.
+14:39:06 Form Login...Port Drawer OK.
+14:39:06 Form Login...Sukses di load.
+14:39:06 Form Login...Show
+14:51:46 3356, You attempted to open a database that is already opened exclusively by user 'admin' on machine 'VPOINT-XP'.  Try again when the database is available.
+14:56:29 Aplikasi  Start...
+14:56:29 Update Struktur database...
+14:56:29 Update Struktur Pembulatan...OK.
+14:56:29 Update Struktur database...Sukses!
+14:56:29 Form Login...Inisialisasi!
+14:56:29 Form Login...Inisialisasi Form Pesan
+14:56:29 Form Login...Form Pesan loaded
+14:56:29 Form Login...Inisialisasi Background
+14:56:29 Form Login...Background loaded
+14:56:29 Form Login...Inisialisasi Footer Struk
+14:56:29 Form Login...Footer Struk sukses diset.
+14:56:29 Form Login...Inisialisasi Setting Kasir (ID dan Hardware)
+14:56:29 Form Login...Setting Kasir Ok.
+14:56:29 Form Login...Baca Setting Tombol.
+14:56:29 Form Login...Setting Tombol OK.
+14:56:30 Form Login...Setting Com Display...
+14:56:30 Form Login...Setting Com Display OK.
+14:56:30 Form Login...Buka Port Display dan Printer ...
+14:56:30 Form Login...Buka Port Drawer  ...
+14:56:30 Form Login...Port Display OK.
+14:56:30 Form Login...Port Printer OK.
+14:56:30 Form Login...Port Drawer OK.
+14:56:30 Form Login...Sukses di load.
+14:56:30 Form Login...Show

@@ -1,0 +1,17 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\VPOINT]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\VPOINT\VPOS]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\VPOINT\VPOS\Data]
+"Reset1"="\\\\Xeon\\kassa\\KASSA08\\Reset\\"
+"Reset2"="C:\\pos\\Reset\\"
+"Backup"="\\\\Xeon\\kassa\\KASSA08\\Backup\\"
+"Backup2"="D:\\MASTER\\temp\\"
+"AutoDelete"="Y"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\VPOINT\VPOS\Pengawas]
+"Kode"="222222"
+"Prosen"="25"
+

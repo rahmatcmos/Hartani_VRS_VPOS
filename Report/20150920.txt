@@ -1,0 +1,256 @@
+ 
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+---------------------------------------
+
+
+
+
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+----------------------------------------
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+Kesalahan saat eksekusi SQl:
+ERROR:Object variable or With block variable not set
+. NAGA MERAH LOKAL
+255141         1 X   43.500=     43.500
+---------------------------------------
+Subtotal                         43.500
+Voucher                               0
+Dibayar                          43.500
+Kembali                               0
+#000001,Kasir01:ADM    20/09/1512:44:17
+Macam Barang =1 , Total Item =1
+CUSTOMER: 90002519-AMI SULASMI
+----TERIMA KASIH ATAS KUNJUNGAN ANDA----
+ 
+ 
+ 
+
+
+ 
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+---------------------------------------
+Subtotal                         43.500
+Voucher                               0
+Dibayar                          43.500
+Kembali                               0
+#000001,Kasir01:ADM    20/09/1513:07:13
+Macam Barang =1 , Total Item =1
+CUSTOMER: 90002519-AMI SULASMI
+----TERIMA KASIH ATAS KUNJUNGAN ANDA----
+ 
+ 
+ 
+
+
+ 
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+---------------------------------------
+Subtotal                         43.500
+Voucher                               0
+Dibayar                          43.500
+Kembali                               0
+#000001,Kasir01:ADM    20/09/1513:10:19
+Macam Barang =1 , Total Item =1
+CUSTOMER: 90002519-AMI SULASMI
+----TERIMA KASIH ATAS KUNJUNGAN ANDA----
+ 
+ 
+ 
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+----REPRINT----
+---------------------------------------
+. NAGA MERAH LOKAL*)
+255141         1 X   43.500=     43.500
+---------------------------------------
+Subtotal                         43.500
+Voucher                               0
+Dibayar                          18.500
+Kembali                               0
+#000001,Kasir01:ADM    20/09/1513:13:21
+Macam Barang =1 , Total Item =1
+customer: 90002519-AMI SULASMI
+----TERIMA KASIH ATAS KUNJUNGAN ANDA----
+ 
+ 
+ 
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+.2 MACAN KCG KEDELAI 500G# ""
+140007         1 X   10.700=     10.700
+ PIETRO GRAPE SEED OIL 1LT#
+111307         1 X  103.800=    103.800
+---------------------------------------
+Subtotal                        114.500
+Voucher                               0
+Dibayar                         114.500
+Kembali                               0
+#000002,Kasir01:ADM    20/09/1513:20:53
+Macam Barang =2 , Total Item =2
+CUSTOMER: 90002519-AMI SULASMI
+----TERIMA KASIH ATAS KUNJUNGAN ANDA----
+ 
+ 
+ 
+
+
+ 
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+ 
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+ 
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+ PIETRO GRAPE SEED OIL 1LT#
+111307         1 X  103.800=    103.800
+---------------------------------------
+Subtotal                        103.800
+Voucher                               0
+Dibayar                         103.800
+Kembali                               0
+#000003,Kasir01:ADM    20/09/1514:44:42
+Macam Barang =1 , Total Item =1
+CUSTOMER: 90002519-AMI SULASMI
+----TERIMA KASIH ATAS KUNJUNGAN ANDA----
+ 
+ 
+ 
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+----REPRINT----
+---------------------------------------
+ PIETRO GRAPE SEED OIL 1LT#*)
+111307         1 X  103.800=    103.800
+---------------------------------------
+Subtotal                        103.800
+Voucher                               0
+Dibayar                          78.800
+Kembali                               0
+#000003,Kasir01:ADM    20/09/1514:50:28
+Macam Barang =1 , Total Item =1
+customer: 90002519-AMI SULASMI
+----TERIMA KASIH ATAS KUNJUNGAN ANDA----
+ 
+ 
+ 
+
+
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
+ 
+
+
+HARTANI SUPERMARKET
+Ps. Atom Thp. V Lt. I St. 1021.T
+Surabaya
+Telp. (031)3530867, (031)3530381
+NPWP.01.232.138.6-613.000
+26 Februari 1992
+---------------------------------------
